@@ -1,0 +1,27 @@
+.website__link {
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    margin: 0px;
+    padding: 0;
+    }
+    
+    .website__link:hover {
+        opacity: 0.8;
+    }
+    
+    @media screen and (max-width:620px) {
+        .website__link {
+            font-size: 7px;
+            line-height: 7px;
+        }
+    }
+    
+    @media screen and (max-width:320px) {
+        .website__link {
+            font-size: 12px;
+            line-height: 12px;
+            margin: 12px 0px 0px 16px;
+        }
+    }
