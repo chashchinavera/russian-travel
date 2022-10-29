@@ -26,6 +26,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/list/list.css);
 @import url(../blocks/list/__paragraph/list__paragraph.css);
+@import url(../blocks/list/__span/list__span.css);
 
 @import url(../blocks/list/__paragraph/list__paragraph.css);
 
