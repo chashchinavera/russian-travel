@@ -1,0 +1,38 @@
+.place__title {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 76px;
+margin: 0;
+padding: 0;
+}
+
+@media screen and (max-width:900px) {
+    .place__title {
+        font-size: 46px;
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .place__title {
+        font-size: 42px;
+        line-height: 46px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .place__title {
+        font-size: 28px;
+        line-height: 30px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .place__title {
+        font-size: 32px;
+        line-height: 35px;
+        margin: 0px 16px;
+    }
+}
