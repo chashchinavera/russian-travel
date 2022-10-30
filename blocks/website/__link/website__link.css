@@ -3,7 +3,7 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
-    margin: 0px;
+    margin: 0;
     padding: 0;
     }
     
@@ -22,6 +22,6 @@
         .website__link {
             font-size: 12px;
             line-height: 12px;
-            margin: 12px 0px 0px 16px;
+            margin: 12px 0 0 16px;
         }
     }

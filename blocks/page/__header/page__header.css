@@ -1,15 +1,16 @@
 .page__header {
-margin: 28px 48px 0px;
+    box-sizing: border-box;
+    padding: 28px 48px 0;
 }
 
 @media screen and (max-width:768px) {
     .page__header {
-        margin: 28px 24px 0px;
+        padding: 28px 24px 0;
     }
 }
 
 @media screen and (max-width:320px) {
     .page__header {
-        margin: 16px 16px 0px;
+        padding: 16px 16px 0;
     }
 }

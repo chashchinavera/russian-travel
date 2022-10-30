@@ -1,6 +1,7 @@
 .intro__list {
-    margin-top: 33px;
+    margin: 16px 0 0;
     padding: 0;
+    max-width: 690px;
 }
 
 @media screen and (max-width:768px) {
@@ -11,7 +12,7 @@
 
 @media screen and (max-width:320px) {
     .intro__list {
-        margin-top: 34px;
+        margin: 17px 0 0;
         max-width: 288px;
     }
 }
