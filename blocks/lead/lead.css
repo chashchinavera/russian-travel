@@ -1,7 +1,8 @@
 .lead {
-    padding: 0 100px;
+    padding: 0 148px;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 @media screen and (max-width:1024px) {
