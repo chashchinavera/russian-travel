@@ -5,6 +5,8 @@ font-size: 24px;
 line-height: 28px;
 text-decoration-line: none;
 color: #FFF;
+font-family: 'Inter';
+font-weight: 400;
 }
 
 .header__lang-link:nth-child(1) {

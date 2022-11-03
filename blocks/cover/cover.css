@@ -1,6 +1,8 @@
 .cover {
     font-family: 'Inter', Arial, sans-serif;
+    box-sizing: border-box;
     padding: 0 48px;
+    width: 100%;
 }
 
 @media screen and (max-width:1024px) {

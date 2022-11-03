@@ -1,5 +1,6 @@
 .content {
     display: grid;
+    grid-template-columns: 100%;
     grid-row-gap: 92px;
 }
 
