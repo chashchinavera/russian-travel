@@ -1,8 +1,10 @@
 .places {
+    box-sizing: border-box;
+    width: 100%;
     display: grid;
     grid-row-gap: 80px;
     padding: 0 148px;
-    box-sizing: border-box;
+
 }
 
 @media screen and (max-width:1024px) {

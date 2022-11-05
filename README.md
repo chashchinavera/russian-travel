@@ -10,4 +10,4 @@
 * Object-fit
 
 **GitHub Pages**
-* [Ссылка](https://github.com/chashchinavera/russian-travel)
+[Ссылка](https://chashchinavera.github.io/russian-travel/)
