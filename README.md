@@ -3,10 +3,10 @@
 Проектная работа про путешествия по России с курса Веб-разработчик [Яндекс.Практикума](https://practicum.yandex.ru/).  
 Одностраничный лендинг с адаптивным интерфейсом.
 
-Ссылка на проект: [Путешествия по России](https://chashchinavera.github.io/russian-travel)
-
 ### **Технологии**
 ***
 * HTML
 * CSS3 (Flexbox, Grid Layout, Адаптивный пользовательский интерфейс)
 * БЭМ Nested
+
+[Открыть сайт в браузере](https://chashchinavera.github.io/russian-travel)
